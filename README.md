@@ -13,6 +13,8 @@
 
 </div>
 
+> **Estate note:** This repo is intentionally unharnessed (no scaffold-agentic-project canon); see ~/Code/INVENTORY.md.
+
 ---
 
 ## What it does
